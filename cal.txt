@@ -9,3 +9,4 @@ now tryin to pull the file from git hub to local repo
 successfuly pulled the file now am writing in local repo
 
 trying to pusll the file on github
+succesffuly push data on git hub now trying pull the file again on git local repo
