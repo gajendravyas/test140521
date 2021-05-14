@@ -1,2 +1,6 @@
  hello still in local repo
-trying to connect to remote repo
+trying to connect to remote rep
+
+now file is uploaded to git hub sussfully on main branch
+
+trying to connect these changes on git hub now
