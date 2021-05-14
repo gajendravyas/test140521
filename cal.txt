@@ -5,3 +5,7 @@ now file is uploaded to git hub sussfully on main branch
 
 trying to connect these changes on git hub now
 now tryin to pull the file from git hub to local repo
+
+successfuly pulled the file now am writing in local repo
+
+trying to pusll the file on github
