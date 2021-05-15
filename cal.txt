@@ -10,4 +10,8 @@ successfuly pulled the file now am writing in local repo
 
 trying to pusll the file on github
 succesffuly push data on git hub now trying pull the file again on git local repo
-done changes on 15 05 2021
+done changes on 15 05 2021 
+
+
+
+done on local on 15 05 2021
